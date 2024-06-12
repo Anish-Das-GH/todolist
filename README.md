@@ -1,5 +1,5 @@
 
-# TodoList React Component
+# TodoList React App
 
 
 
